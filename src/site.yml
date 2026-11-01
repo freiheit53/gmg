@@ -3,7 +3,7 @@ info:
   lang: zh-CN
   githubPages: true
 display:
-  font: sypxzs
+  font: system
   darkMode: auto
   perPage: 20
   leadStory: true
