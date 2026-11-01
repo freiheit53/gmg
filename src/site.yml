@@ -3,12 +3,12 @@ info:
   lang: zh-CN
   githubPages: true
 display:
-  font: system
+  font: sypxzs
   darkMode: auto
   perPage: 20
   leadStory: true
   dropCap: false
-  endMark: true
+  endMark: false
   progressBar: true
   chapterPicker: true
   keyboardNav: true
