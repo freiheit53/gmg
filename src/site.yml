@@ -5,7 +5,7 @@ info:
 display:
   font: sypxzs
   darkMode: auto
-  perPage: 5
+  perPage: 10
   leadStory: true
   dropCap: true
   endMark: false
