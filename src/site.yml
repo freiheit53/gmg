@@ -5,9 +5,9 @@ info:
 display:
   font: sypxzs
   darkMode: auto
-  perPage: 10
-  leadStory: true
-  dropCap: true
+  perPage: 5
+  leadStory: false
+  dropCap: false
   endMark: false
   progressBar: true
   chapterPicker: true
