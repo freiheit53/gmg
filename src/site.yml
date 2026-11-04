@@ -7,7 +7,7 @@ display:
   darkMode: auto
   perPage: 5
   leadStory: false
-  dropCap: false
+  dropCap: true
   endMark: false
   progressBar: true
   chapterPicker: true
